@@ -22,15 +22,15 @@ I’m currently learning Spring Framework and Hibernate, also i'm working on an 
 
 * ***Java 8***
 
-    ![Java](/JuanmaFranco/images/java.png)
+    ![Java](images/java.png)
 
 * ***SQL***
   
-    ![SQL](/JuanmaFranco/images/sql.png)
+    ![SQL](images/sql.png)
 
 * ***Git & Github***
 
-    ![Git](/JuanmaFranco/images/git.jpg)
+    ![Git](images/git.jpg)
 
 ## 💭 Soft - Skills
 
