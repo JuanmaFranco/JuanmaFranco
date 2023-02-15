@@ -6,44 +6,31 @@ I was born in Carmen de Areco but i'm currently living in Luján (Buenos Aires).
 <br>
 
 ### What are my interests?
-I have a great interest in developing as a professional in the IT industry, more precisely as a Backend Developer, although I am also passionate about data and how it influences decision making.
+I have a great interest in developing as a professional in the IT industry, although I am also passionate about data and how it influences decision making so i would have no problem migrating to the data science/analysis area if necessary.
+
+I’m currently learning Spring Framework and Hibernate, also i'm working on an e-commerce project that includes the following technologies: 
+- Spring Boot
+- Hibernate
+- MySQL
+- Heroku deployment 
 
 ## 💻 Hard - Skills
 
-* ***Java Programming***
+* ***Python***
 
-    ![Java](/images/java.png)
+    ![Python](images/python2.png)
 
-  * Core (Datatypes, Classes, Functions, Abstract Classes & Interfaces)
-  * Object Oriented Programming (OOP)
-  * Java 8 (API Stream, API DateTime, API Optional)
-  * Generics
-  * Concurrency (Threads, Callable & Runnable, Executor Framework)
-  * Unit Testing (JUnit & Mockito)
-  * JDBC (Basic)
+* ***Java 8***
+
+    ![Java](/JuanmaFranco/images/java.png)
 
 * ***SQL***
   
-    ![SQL](/images/sql.png)
-
-  * DDL (CREATE, ALTER, DROP, TRUNCATE)
-  * Basic Queries
-  * Subqueries
-  * Stored Procedures
-  * Triggers
-  * Views
-  * SGBD -> MySQL
-  * Clients -> HeidiSQL, MySQL Workbench
+    ![SQL](/JuanmaFranco/images/sql.png)
 
 * ***Git & Github***
 
-    ![Git](images/git.jpg)
-
-  * Code versioning concepts
-  * Merging & Rebasing
-  * Tracking remote branches
-  * Tagging
-  * Fetch, Push & Pull 
+    ![Git](/JuanmaFranco/images/git.jpg)
 
 ## 💭 Soft - Skills
 
@@ -53,10 +40,10 @@ I have a great interest in developing as a professional in the IT industry, more
 * Analytical thinking
 * Positive mindset
 
-## 📫 Contact 
+## 📫 How to reach me:
 
 📧 Email: juanmartin_franco@hotmail.com <br>
-📱 Cell Phone: +54 2325651813 <br>
+📱 Cell Phone: +54 2325 65 1813 <br>
 🔗 LinkedIn: [Juan Martín Franco](https://www.linkedin.com/in/juanmafranco/)
 
 <!--
