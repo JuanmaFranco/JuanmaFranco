@@ -30,7 +30,7 @@ In essence, I am driven by a fervent desire to create impact through technology 
 
 ## 💻 Hard - Skills
 
-* ***Python***
+* ***Python 3***
 
     ![Python](images/python2.png)
 
@@ -62,6 +62,14 @@ In essence, I am driven by a fervent desire to create impact through technology 
 * Analytical thinking
 * Positive mindset
 
+## 📚 Practical Assignments
+
+### Teleinformática y Redes
+- [Teleinformática y Redes - Practical Assignments](https://github.com/JuanmaFranco/TyR-TPS)
+
+### Administración y Gestión de Redes
+- [Administración y Gestión de Redes - Practical Assignments](https://github.com/JuanmaFranco/AyGR-TPS)
+
 ## 🚀 Projects
 
 * [Project 1: Spring MySQL REST API](https://github.com/JuanmaFranco/spring-mysql-rest-api):
@@ -75,11 +83,24 @@ In essence, I am driven by a fervent desire to create impact through technology 
 
 Feel free to explore these projects and get a glimpse of my technical expertise and problem-solving skills.
 
+## 📄 Curriculum Vitae / Resume
+
+English Version:
+
+  - [Juan Martin Franco's Resume](resume/Juan%20Martín%20Franco's%20Resume.pdf)
+
+Spanish Version:
+
+  - [Juan Martín Franco - Curriculum Vitae](resume/CV%20-%20Juan%20Martin%20Franco.pdf)
+
+
 ## 📫 How to reach me:
 
 📧 Email: juanmartin_franco@hotmail.com <br>
 📱 Cell Phone: +54 2325 65 1813 <br>
-🔗 LinkedIn: [Juan Martín Franco](https://www.linkedin.com/in/juanmafranco/)
+🔗 LinkedIn: [Juan Martín Franco](https://www.linkedin.com/in/juanmafranco/) <br>
+🔗 Medium: [Juan Martín Franco - Medium](https://medium.com/@juanmartin_franco) <br>
+🔗 Gitbook: [Juan Martín Franco - Gitbook](https://juan-martin-franco.gitbook.io) <br>
 
 Thank you for taking the time to explore my profile! 
 
