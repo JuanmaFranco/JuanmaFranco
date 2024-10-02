@@ -4,6 +4,8 @@
 
 I'm **Juan Martín Franco**, a passionate student on a journey to pursue a Bachelor's Degree in Information Systems at the Universidad Nacional de Luján (UNLu). 
 
+![Hits](https://hits.sh/github.com/juanmafranco.svg?style=for-the-badge&label=Profile%20Views&labelColor=161616)
+
 ### My Professional Journey and Aspirations
 
 I am deeply passionate about advancing my career within the dynamic realm of the IT industry. Specifically, my focus lies in becoming a skilled Backend Developer, leveraging my proficiency in technologies like Spring Framework, Hibernate, and MySQL to architect robust and efficient systems. My aspiration, however, extends beyond just one role, as I remain open to exploring various avenues within the IT field as my journey progresses.
