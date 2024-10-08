@@ -1,46 +1,85 @@
 ## 👋 Hello! Nice to meet you
 
-### About Me
+## 👨‍💻📚 About Me
 
-I'm **Juan Martín Franco**, a passionate student on a journey to pursue a Bachelor's Degree in Information Systems at the Universidad Nacional de Luján (UNLu). 
+I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Information Systems at the Universidad Nacional de Luján (UNLu). I have a deep passion for technology, with a strong focus on IT support. I am constantly learning and improving my skills through both academic study and personal projects.
 
-![Hits](https://hits.sh/github.com/juanmafranco.svg?style=for-the-badge&label=Profile%20Views&labelColor=161616)
+[![Hits](https://hits.sh/github.com/juanmafranco.svg?style=for-the-badge&label=Profile%20Views&labelColor=161616)](https://hits.sh/github.com/juanmafranco/)
 
-### My Professional Journey and Aspirations
+## 📑 Table of Contents
 
-I am deeply passionate about advancing my career within the dynamic realm of the IT industry. Specifically, my focus lies in becoming a skilled Backend Developer, leveraging my proficiency in technologies like Spring Framework, Hibernate, and MySQL to architect robust and efficient systems. My aspiration, however, extends beyond just one role, as I remain open to exploring various avenues within the IT field as my journey progresses.
-
-Driven by a relentless thirst for knowledge, I actively seek opportunities to enhance my skill set both within the structured academic environment of the Universidad Nacional de Luján (UNLu) and through self-directed learning. This dual approach has equipped me with a unique blend of theoretical foundation and hands-on experience, positioning me to make valuable contributions to any organization that recognizes and nurtures my potential.
-
-My ultimate goal is to channel the expertise I have gained into a professional setting, collaborating with a forward-thinking company that shares my vision for innovative solutions and cutting-edge technologies. I am committed to continuously honing my craft, producing high-quality code, and refining my English language skills to effectively communicate and collaborate with diverse teams on a global scale.
-
-In essence, I am driven by a fervent desire to create impact through technology and contribute meaningfully to the evolution of the IT landscape. As I embark on this journey, I am excited to embrace new challenges, embrace continuous learning, and foster innovation within the industry.
+1. [👨‍💻 About Me](#-about-me)
+2. [💻 Hard - Skills](#-hard---skills)
+3. [💭 Soft - Skills](#-soft---skills)
+4. [📚 Practical Assignments](#-practical-assignments)
+5. [🚀 Projects](#-projects)
+6. [📄 Curriculum Vitae / Resume](#-curriculum-vitae--resume)
+7. [📫 How to reach me:](#-how-to-reach-me)
 
 ## 💻 Hard - Skills
 
-* ***Python 3***
+* ***Windows Operating Systems (Windows Server [2016/2022], Windows 7, Windows 10 & Windows 11)***
+    
+    ![Windows Server](images/windows-server.jpg)
+    ![Windows 7](/images/windows7-logo.jpg)
+    ![Windows 10](/images/windows-10.jpg)
+    ![Windows 11](/images/windows-11.jpg)
 
-    ![Python](images/python2.png)
+* ***Active Directory (On-Premises & Azure Active Directory)***
+    
+    ![Active Directory](images/active-directory-logo.jpg)
+    ![Azure Active Directory](images/azure-ad-logo.png)
 
-* ***Java 17***
+* ***Group Policy Objects (GPOs)***
+    
+    ![GPO](images/gpo-logo.png)    
 
-    ![Java](images/java.png)
+* ***Microsoft 365***
+    
+    ![Microsoft 365](images/m365-logo.jpg)
 
-* ***MySQL***
-  
-    ![MySQL](images/sql.png)
+* ***VPN Configuration***
+    
+    ![VPN](images/vpn-logo.jpg)
 
-* ***Git & Github***
+* ***Virtualization (Hyper-V, VMWare & VirtualBox)***
+    
+    ![Hyper-V](images/hyperv-logo.jpg)
+    ![VMWare](/images/vmware-logo.jpg)
+    ![VirtualBox](/images/virtualbox-logo.png)
 
-    ![Git](images/git-github.png)
+* ***PowerShell***
+    
+    ![PowerShell](images/powershell-logo.jpg)
 
-* ***Hibernate***
+* ***Linux (Debian, Ubuntu & Fedora)***
+    
+    ![Debian](images/debian-logo.png)
+    ![Ubuntu](/images/ubuntu.jpg)
+    ![Fedora](/images/fedora.jpg)
 
-    ![Hibernate](images/hibernate2.png)
+* ***Monitoring (Zabbix y Grafana)***
+    
+    ![Zabbix](/images/zabbix-logo.png)
+    ![Grafana](/images/grafana-logo.jpg)
 
-* ***Spring Framework 6 & Spring Boot 3***
+* ***Software Deployment (PDQ Deploy)***
+    
+    ![PDQ Deploy](images/pdq-logo.png)
 
-    ![Spring](images/spring.png)
+* ***Remote Access and Troubleshooting (TeamViewer & AnyDesk)***
+    
+    ![TeamViewer](images/teamviewer-logo2.jpg)
+    ![AnyDesk](/images/anydesk-logo.png)
+
+* ***Ticketing System (Jira Service Management)***
+    
+    ![Jira Service Management](images/jsm-logo.jpg)
+
+* ***Version Control (Git & GitHub)***
+    
+    ![GitHub](images/Git-Github-logo.png)
+
 
 ## 💭 Soft - Skills
 
@@ -50,7 +89,7 @@ In essence, I am driven by a fervent desire to create impact through technology 
 * Analytical thinking
 * Positive mindset
 
-## 📚 Practical Assignments
+## 📚 Practical Work
 
 ### Teleinformática y Redes
 - [Teleinformática y Redes - Practical Assignments](https://github.com/JuanmaFranco/TyR-TPS)
@@ -60,18 +99,25 @@ In essence, I am driven by a fervent desire to create impact through technology 
 
 ## 🚀 Projects
 
-* [Project 1: Spring MySQL REST API](https://github.com/JuanmaFranco/spring-mysql-rest-api):
+* **Java Projects**
+
+  * [Project 1: Spring MySQL REST API](https://github.com/JuanmaFranco/spring-mysql-rest-api):
     A project showcasing the creation of a RESTful API using Spring Boot, MySQL, and Hibernate.
 
-* [Project 2: Spring MVC Customer Management](https://github.com/JuanmaFranco/spring-mvc-customer-management):
+  * [Project 2: Spring MVC Customer Management](https://github.com/JuanmaFranco/spring-mvc-customer-management):
     An interactive web application built with Spring MVC for managing customer data.
 
-* [Project 3: Shopme E-commerce (Under development)](https://github.com/JuanmaFranco/Shopme-Ecommerce):
+  * [Project 3: Shopme E-commerce (Under development)](https://github.com/JuanmaFranco/Shopme-Ecommerce):
     An e-commerce platform leveraging a range of technologies, including Spring Boot and Hibernate, for smooth functionality.
+
+* **IT Support Projects**
+
+  * [Project 1: IT Support Homelab](https://github.com/JuanmaFranco/HomeLab):
+    A comprehensive homelab project simulating a real-world IT environment. It includes the setup of Windows Server 2022, Active Directory, Azure Active Directory, Microsoft 365, and network configurations such as VPNs. This project demonstrates key IT support skills, including user management, system administration, software deployment, remote troubleshooting, and monitoring through Zabbix and Grafana.
 
 Feel free to explore these projects and get a glimpse of my technical expertise and problem-solving skills.
 
-## 📄 Curriculum Vitae / Resume
+## 📄 Resume / CV
 
 English Version:
 
