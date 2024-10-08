@@ -1,6 +1,6 @@
 ## 👋 Hello! Nice to meet you
 
-## 👨‍💻📚 About Me
+## 👨‍💻 About Me
 
 I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Information Systems at the Universidad Nacional de Luján (UNLu). I have a deep passion for technology, with a strong focus on IT support. I am constantly learning and improving my skills through both academic study and personal projects.
 
@@ -11,10 +11,11 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 1. [👨‍💻 About Me](#-about-me)
 2. [💻 Hard - Skills](#-hard---skills)
 3. [💭 Soft - Skills](#-soft---skills)
-4. [📚 Practical Assignments](#-practical-assignments)
-5. [🚀 Projects](#-projects)
-6. [📄 Curriculum Vitae / Resume](#-curriculum-vitae--resume)
-7. [📫 How to reach me:](#-how-to-reach-me)
+4. [📚 Practical Work](#-practical-work)
+5. [📜 Certifications](#-certifications)
+6. [🚀 Projects](#-projects)
+7. [📄 Curriculum Vitae / Resume](#-resume--cv)
+8. [📫 How to reach me](#-how-to-reach-me)
 
 ## 💻 Hard - Skills
 
@@ -85,19 +86,32 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * Self-taught
 * Team Work
-* Organized
-* Analytical thinking
-* Positive mindset
+* Effective Communication
+* Empathy
+* Problem Solving
+* Positive Attitude
 
 ## 📚 Practical Work
 
 ### Teleinformática y Redes
-- [Teleinformática y Redes - Practical Assignments](https://github.com/JuanmaFranco/TyR-TPS)
+- [Teleinformática y Redes - Practical Work](https://github.com/JuanmaFranco/TyR-TPS)
 
 ### Administración y Gestión de Redes
-- [Administración y Gestión de Redes - Practical Assignments](https://github.com/JuanmaFranco/AyGR-TPS)
+- [Administración y Gestión de Redes - Practical Work](https://github.com/JuanmaFranco/AyGR-TPS)
+
+## 📜 Certifications
+
+- **Google IT Support Professional Certificate**  
+  ![Badge](/certificates/google%20it%20support%20specialist/google-it-support-professional-certificate.2.png)  
+  *Issued by Google via Coursera*  
+  [View certification](/certificates/google%20it%20support%20specialist/google_it_support.pdf)
 
 ## 🚀 Projects
+
+* **IT Support Projects**
+
+  * [Project 1: IT Support Homelab](https://github.com/JuanmaFranco/HomeLab):
+    A comprehensive homelab project simulating a real-world IT environment. It includes the setup of Windows Server 2022, Active Directory, Azure Active Directory, Microsoft 365, and network configurations such as VPNs. This project demonstrates key IT support skills, including user management, system administration, software deployment, remote troubleshooting, and monitoring through Zabbix and Grafana.
 
 * **Java Projects**
 
@@ -110,10 +124,6 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
   * [Project 3: Shopme E-commerce (Under development)](https://github.com/JuanmaFranco/Shopme-Ecommerce):
     An e-commerce platform leveraging a range of technologies, including Spring Boot and Hibernate, for smooth functionality.
 
-* **IT Support Projects**
-
-  * [Project 1: IT Support Homelab](https://github.com/JuanmaFranco/HomeLab):
-    A comprehensive homelab project simulating a real-world IT environment. It includes the setup of Windows Server 2022, Active Directory, Azure Active Directory, Microsoft 365, and network configurations such as VPNs. This project demonstrates key IT support skills, including user management, system administration, software deployment, remote troubleshooting, and monitoring through Zabbix and Grafana.
 
 Feel free to explore these projects and get a glimpse of my technical expertise and problem-solving skills.
 
