@@ -79,8 +79,8 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Version Control (Git & GitHub)***
     
-    ![GitHub](images/Git-Github-logo.png)
-
+    ![Git](/images/git-logo.png)
+    ![GitHub](/images/github-logo.jpeg)
 
 ## 💭 Soft - Skills
 
@@ -111,7 +111,8 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 * **IT Support Projects**
 
   * [Project 1: IT Support Homelab](https://github.com/JuanmaFranco/HomeLab):
-    A comprehensive homelab project simulating a real-world IT environment. It includes the setup of Windows Server 2022, Active Directory, Azure Active Directory, Microsoft 365, and network configurations such as VPNs. This project demonstrates key IT support skills, including user management, system administration, software deployment, remote troubleshooting, and monitoring through Zabbix and Grafana.
+    A comprehensive homelab project simulating a real-world IT environment. It includes the setup of Windows Server 2022, Active Directory, Azure Active Directory, Microsoft 365, and network configurations such as VPNs. This project demonstrates key IT support skills, including user management, system administration, software deployment, remote troubleshooting, and monitoring through Zabbix and Grafana. Additionally, PowerShell was used to automate user creation and management tasks, and Group Policy Objects (GPOs) were implemented to enforce security policies and configurations across the environment.
+
 
 * **Java Projects**
 
