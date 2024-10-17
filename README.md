@@ -106,6 +106,21 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
   *Issued by Google via Coursera*  
   [View certification](/certificates/google%20it%20support%20specialist/google_it_support.pdf)
 
+- **English Certificates - Instituto Británico de Cultura Inglesa (IBCI)** <br/><br/>
+  ![Logo](/certificates/english%20certificates/logo/ibci-logo.png)
+
+  - [1st Form Inferior (2004)](/certificates/english%20certificates/1st%20Form%20Inferior/1st%20Form%20Inferior.pdf)
+
+  - [1st Form Superior (2005)](/certificates/english%20certificates/1st%20Form%20Superior/1st%20Form%20Superior.pdf)
+  
+  - [2nd Form (2006)](/certificates/english%20certificates/2nd%20Form/2nd%20Form.pdf)
+
+  - [Elementary (2007)](/certificates/english%20certificates/Elementary/Elementary.pdf)
+
+  - [2nd Year (2009)](/certificates/english%20certificates/2nd%20Year/2nd%20Year.pdf)
+  
+  - [3rd Year (2010)](/certificates/english%20certificates/3rd%20Year/3rd%20Year.pdf)
+
 ## 🚀 Projects
 
 * **IT Support Projects**
@@ -113,6 +128,8 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
   * [Project 1: IT Support Homelab](https://github.com/JuanmaFranco/HomeLab):
     A comprehensive homelab project simulating a real-world IT environment. It includes the setup of Windows Server 2022, Active Directory, Azure Active Directory, Microsoft 365, and network configurations such as VPNs. This project demonstrates key IT support skills, including user management, system administration, software deployment, remote troubleshooting, and monitoring through Zabbix and Grafana. Additionally, PowerShell was used to automate user creation and management tasks, and Group Policy Objects (GPOs) were implemented to enforce security policies and configurations across the environment.
 
+  * [Project 2: Powershell Automation Script (Under Development)](https://github.com/JuanmaFranco/Powershell-Script):
+    This project focuses on automating administrative tasks in Active Directory using PowerShell. It includes scripts for bulk user creation and disabling, enhancing efficiency and consistency in user management. The automation process reduces manual effort and minimizes human error, while allowing customization of user attributes. Overall, this project showcases essential skills in task automation, IT support, and the effective use of PowerShell to streamline operations.
 
 * **Java Projects**
 
@@ -128,15 +145,15 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 Feel free to explore these projects and get a glimpse of my technical expertise and problem-solving skills.
 
-## 📄 Resume / CV
+## 📄 Curriculum Vitae (CV) / Resume
 
-English Version:
+Versión en español:  
 
-  - [Juan Martin Franco's Resume](resume/Juan%20Martín%20Franco's%20Resume.pdf)
+  - [CV - Juan Martín Franco](/resume/CV%20-%20Juan%20Martin%20Franco.pdf)
 
-Spanish Version:
+English Version: 
 
-  - [Juan Martín Franco - Curriculum Vitae](resume/CV%20-%20Juan%20Martin%20Franco.pdf)
+  - [Juan Martin Franco's Resume](/resume/Juan%20Martin%20Franco%20-%20Resume.pdf)
 
 
 ## 📫 How to reach me:
