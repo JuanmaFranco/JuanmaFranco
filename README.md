@@ -14,7 +14,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 4. [📚 Practical Work](#-practical-work)
 5. [📜 Certifications](#-certifications)
 6. [🚀 Projects](#-projects)
-7. [📄 Curriculum Vitae / Resume](#-resume--cv)
+7. [📄 Curriculum Vitae / Resume](#-curriculum-vitae-cv--resume)
 8. [📫 How to reach me](#-how-to-reach-me)
 
 ## 💻 Hard - Skills
