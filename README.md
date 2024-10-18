@@ -35,10 +35,13 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
     
     ![GPO](images/gpo-logo.png)    
 
-* ***Microsoft 365***
+* ***Productivity and Collaboration Tools (Microsoft 365, G-Suite, Discord & Slack)***
     
     ![Microsoft 365](images/m365-logo.jpg)
-
+    ![G-Suite](/images/gsuite-logo.jpg)
+    ![Discord](/images/discord-logo.jpg)
+    ![Slack](/images/slack-logo.jpg)
+    
 * ***VPN Configuration***
     
     ![VPN](images/vpn-logo.jpg)
