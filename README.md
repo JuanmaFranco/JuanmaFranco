@@ -76,11 +76,6 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
     
     ![Jira Service Management](images/jsm-logo2.jpg)
 
-* ***Version Control (Git & GitHub)***
-    
-    ![Git](/images/git-logo.png)
-    ![GitHub](/images/github-logo-new.jpeg)
-
 ## 💭 Soft - Skills
 
 * Self-taught
