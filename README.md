@@ -33,20 +33,20 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Group Policy Objects (GPOs)***
     
-    ![GPO](images/gpo-logo.png)    
+    ![GPO](images/gpo-logo2.png)    
 
 * ***Productivity and Collaboration Tools (Microsoft 365, G-Suite, Discord & Slack)***
     
     ![Microsoft 365](images/microsoft365-logo.jpg)
-    ![G-Suite](/images/gsuite-logo.jpg)
+    ![G-Suite](/images/gsuite-logo2.jpg)
     ![Discord](/images/discord-logo.jpg)
     ![Slack](/images/slack-logo.jpg)
 
 * ***Virtualization (Hyper-V, VMWare & VirtualBox)***
     
     ![Hyper-V](images/hyperv-logo.jpg)
-    ![VMWare](/images/vmware-logo.jpg)
-    ![VirtualBox](/images/virtualbox-logo.png)
+    ![VMWare](/images/vmware-logo2.jpg)
+    ![VirtualBox](/images/virtualbox-logo2.png)
 
 * ***PowerShell***
     
@@ -70,7 +70,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 * ***Remote Access and Troubleshooting (TeamViewer & AnyDesk)***
     
     ![TeamViewer](images/teamviewer-logo2.jpg)
-    ![AnyDesk](/images/anydesk-logo.png)
+    ![AnyDesk](/images/anydesk-logo2.png)
 
 * ***Ticketing System (Jira Service Management)***
     
@@ -79,7 +79,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 * ***Version Control (Git & GitHub)***
     
     ![Git](/images/git-logo.png)
-    ![GitHub](/images/github-logo2.jpeg)
+    ![GitHub](/images/github-logo-new.jpeg)
 
 ## 💭 Soft - Skills
 
