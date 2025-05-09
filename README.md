@@ -55,7 +55,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 * ***Linux (Debian, Ubuntu & Fedora)***
     
     ![Debian](images/debian-logo.png)
-    ![Ubuntu](/images/ubuntu-new.jpg)
+    ![Ubuntu](/images/ubuntu-new-2.jpg)
     ![Fedora](/images/fedora.jpg)
 
 * ***Monitoring (Zabbix y Grafana)***
