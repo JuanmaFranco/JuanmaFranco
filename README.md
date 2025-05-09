@@ -33,7 +33,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Group Policy Objects (GPOs)***
     
-    ![GPO](images/gpo-logo2.png)    
+    ![GPO](images/gpo-logo-new.png)    
 
 * ***Productivity and Collaboration Tools (Microsoft 365, G-Suite, Discord & Slack)***
     
@@ -46,7 +46,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
     
     ![Hyper-V](images/hyperv-logo.jpg)
     ![VMWare](/images/vmware-logo2.jpg)
-    ![VirtualBox](/images/virtualbox-logo2.png)
+    ![VirtualBox](/images/virtualbox-logo-new.png)
 
 * ***PowerShell***
     
