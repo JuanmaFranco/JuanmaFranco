@@ -101,7 +101,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 ## 📜 Certifications
 
 - **Google IT Support Professional Certificate**  
-  ![Badge](/certificates/google%20it%20support%20specialist/google-it-support-professional-certificate.2.png)  
+  ![Badge](/certificates/google%20it%20support%20specialist/google-it-support-professional-certificate.png)  
   *Issued by Google via Coursera*  
   [View certification](/certificates/google%20it%20support%20specialist/google_it_support.pdf)
 
