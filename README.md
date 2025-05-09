@@ -23,7 +23,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
     
     ![Windows Server](images/windows-server.jpg)
     ![Windows 7](/images/windows7-logo.jpg)
-    ![Windows 10](/images/windows-10.jpg)
+    ![Windows 10](/images/windows-10-new.jpg)
     ![Windows 11](/images/windows-11-logo.jpg)
 
 * ***Active Directory (On-Premises & Azure Active Directory)***
@@ -55,13 +55,13 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 * ***Linux (Debian, Ubuntu & Fedora)***
     
     ![Debian](images/debian-logo.png)
-    ![Ubuntu](/images/ubuntu.jpg)
+    ![Ubuntu](/images/ubuntu-new.jpg)
     ![Fedora](/images/fedora.jpg)
 
 * ***Monitoring (Zabbix y Grafana)***
     
     ![Zabbix](/images/zabbix-logo.png)
-    ![Grafana](/images/grafana-logo.jpg)
+    ![Grafana](/images/grafana-logo-new.jpg)
 
 * ***Software Deployment (PDQ Deploy)***
     
@@ -148,7 +148,7 @@ Feel free to explore these projects and get a glimpse of my technical expertise 
 
 Versión en español:  
 
-  - [CV - Juan Martín Franco](/resume/CV%20-%20Juan%20Martin%20Franco.pdf)
+  - [CV - Juan Martín Franco](/resume/CV%20-%20%20Juan%20Martin%20Franco.pdf)
 
 English Version: 
 
