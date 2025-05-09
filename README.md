@@ -24,12 +24,12 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
     ![Windows Server](images/windows-server.jpg)
     ![Windows 7](/images/windows7-logo.jpg)
     ![Windows 10](/images/windows-10.jpg)
-    ![Windows 11](/images/windows-11.jpg)
+    ![Windows 11](/images/windows-11-logo.jpg)
 
 * ***Active Directory (On-Premises & Azure Active Directory)***
     
     ![Active Directory](images/active-directory-logo.jpg)
-    ![Azure Active Directory](images/azure-ad-logo.png)
+    ![Azure Active Directory](images/azure-ad-logo2.png)
 
 * ***Group Policy Objects (GPOs)***
     
@@ -37,14 +37,10 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Productivity and Collaboration Tools (Microsoft 365, G-Suite, Discord & Slack)***
     
-    ![Microsoft 365](images/m365-logo.jpg)
+    ![Microsoft 365](images/microsoft365-logo.jpg)
     ![G-Suite](/images/gsuite-logo.jpg)
     ![Discord](/images/discord-logo.jpg)
     ![Slack](/images/slack-logo.jpg)
-    
-* ***VPN Configuration***
-    
-    ![VPN](images/vpn-logo.jpg)
 
 * ***Virtualization (Hyper-V, VMWare & VirtualBox)***
     
@@ -69,7 +65,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Software Deployment (PDQ Deploy)***
     
-    ![PDQ Deploy](images/pdq-logo.png)
+    ![PDQ Deploy](images/pdqdeploy-logo.png)
 
 * ***Remote Access and Troubleshooting (TeamViewer & AnyDesk)***
     
@@ -78,12 +74,12 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Ticketing System (Jira Service Management)***
     
-    ![Jira Service Management](images/jsm-logo.jpg)
+    ![Jira Service Management](images/jsm-logo2.jpg)
 
 * ***Version Control (Git & GitHub)***
     
     ![Git](/images/git-logo.png)
-    ![GitHub](/images/github-logo.jpeg)
+    ![GitHub](/images/github-logo2.jpeg)
 
 ## 💭 Soft - Skills
 
