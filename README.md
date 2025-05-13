@@ -21,40 +21,40 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Windows Operating Systems (Windows Server [2016/2022], Windows 7, Windows 10 & Windows 11)***
     
-    ![Windows Server](images/windows-server.jpg)
+    ![Windows Server](/images/windows-server.jpg)
     ![Windows 7](/images/windows7-logo.jpg)
     ![Windows 10](/images/windows-10-new.jpg)
     ![Windows 11](/images/windows-11-logo.jpg)
 
 * ***Active Directory (On-Premises & Azure Active Directory)***
     
-    ![Active Directory](images/active-directory-logo.jpg)
-    ![Azure Active Directory](images/azure-ad-logo2.png)
+    ![Active Directory](/images/active-directory-logo.jpg)
+    ![Azure Active Directory](/images/azure-ad-logo2.png)
 
 * ***Group Policy Objects (GPOs)***
     
-    ![GPO](images/gpo-logo-new.png)    
+    ![GPO](/images/gpo-logo-new.png)    
 
 * ***Productivity and Collaboration Tools (Microsoft 365, G-Suite, Discord & Slack)***
     
-    ![Microsoft 365](images/microsoft365-logo.jpg)
+    ![Microsoft 365](/images/microsoft365-logo.jpg)
     ![G-Suite](/images/gsuite-logo2.jpg)
     ![Discord](/images/discord-logo.jpg)
     ![Slack](/images/slack-logo.jpg)
 
 * ***Virtualization (Hyper-V, VMWare & VirtualBox)***
     
-    ![Hyper-V](images/hyperv-logo.jpg)
+    ![Hyper-V](/images/hyperv-logo.jpg)
     ![VMWare](/images/vmware-logo2.jpg)
     ![VirtualBox](/images/virtualbox-logo-new.png)
 
 * ***PowerShell***
     
-    ![PowerShell](images/powershell-logo.jpg)
+    ![PowerShell](/images/powershell-logo.jpg)
 
 * ***Linux (Debian, Ubuntu & Fedora)***
     
-    ![Debian](images/debian-logo.png)
+    ![Debian](/images/debian-logo.png)
     ![Ubuntu](/images/ubuntu-new-2.jpg)
     ![Fedora](/images/fedora.jpg)
 
@@ -65,16 +65,16 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Software Deployment (PDQ Deploy)***
     
-    ![PDQ Deploy](images/pdqdeploy-logo.png)
+    ![PDQ Deploy](/images/pdqdeploy-logo.png)
 
 * ***Remote Access and Troubleshooting (TeamViewer & AnyDesk)***
     
-    ![TeamViewer](images/teamviewer-logo2.jpg)
+    ![TeamViewer](/images/teamviewer-logo2.jpg)
     ![AnyDesk](/images/anydesk-logo2.png)
 
 * ***Ticketing System (Jira Service Management)***
     
-    ![Jira Service Management](images/jsm-logo2.jpg)
+    ![Jira Service Management](/images/jsm-logo2.jpg)
 
 ## 💭 Soft - Skills
 
