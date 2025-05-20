@@ -21,15 +21,15 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Windows Operating Systems (Windows Server [2016/2022], Windows 7, Windows 10 & Windows 11)***
     
-    ![Windows Server](images/windows-server.jpg)
-    ![Windows 7](images/windows7-logo.jpg)
-    ![Windows 10](images/windows-10-new.jpg)
-    ![Windows 11](images/windows-11-logo.jpg)
+    ![Windows Server](https://github.com/user-attachments/assets/1597ce4a-aa74-4c16-a2da-9187bc882614)
+    ![Windows 7](https://github.com/user-attachments/assets/868e65a8-1e5b-4f0c-b5d9-f378248d8857)
+    ![Windows 10](https://github.com/user-attachments/assets/f49cf709-2229-412b-bc16-c2f6de54f8b9)
+    ![Windows 11](https://github.com/user-attachments/assets/c58d4a2c-7e24-4305-94fb-4fee23b6a938)
 
 * ***Active Directory (On-Premises & Azure Active Directory)***
     
-    ![active-directory-logo.jpg](images/active-directory-logo.jpg)
-    ![Azure Active Directory](images/azure-ad-logo2.png)
+    ![Active Directory](https://github.com/user-attachments/assets/33cb90a7-872e-4dd1-823e-46ead5dc6c25)
+    ![Azure Active Directory](https://github.com/user-attachments/assets/baa82a0e-6a5b-4e85-85e6-8d814a6fb3f2)
 
 * ***Group Policy Objects (GPOs)***
     
