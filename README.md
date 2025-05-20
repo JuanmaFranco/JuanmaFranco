@@ -33,48 +33,48 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Group Policy Objects (GPOs)***
     
-    ![GPO](images/gpo-logo-new.png)    
+    ![GPO](https://github.com/user-attachments/assets/cefc21c6-69b1-45fd-90f1-487f1cb03cba)
 
 * ***Productivity and Collaboration Tools (Microsoft 365, G-Suite, Discord & Slack)***
     
-    ![Microsoft 365](images/microsoft365-logo.jpg)
-    ![G-Suite](images/gsuite-logo2.jpg)
-    ![Discord](images/discord-logo.jpg)
-    ![Slack](images/slack-logo.jpg)
+    ![Microsoft 365](https://github.com/user-attachments/assets/9e086d02-8661-4958-abbb-3592f65a8302)
+    ![G-Suite](https://github.com/user-attachments/assets/25c5e0fd-e179-46fc-81c5-6459b6941db3)
+    ![Discord](https://github.com/user-attachments/assets/99b88a84-a237-4db7-8ccf-0af30d426490)
+    ![Slack](https://github.com/user-attachments/assets/beecbf7c-3b82-49da-9ca9-7af832f1d45d)
 
 * ***Virtualization (Hyper-V, VMWare & VirtualBox)***
     
-    ![Hyper-V](images/hyperv-logo.jpg)
-    ![VMWare](images/vmware-logo2.jpg)
-    ![VirtualBox](images/virtualbox-logo-new.png)
+    ![Hyper-V](https://github.com/user-attachments/assets/1113e917-f8ea-4b32-ab65-77f4d409045f)
+    ![VMWare](https://github.com/user-attachments/assets/811b8ed1-2994-4e29-8939-4a947f1139dd)
+    ![VirtualBox](https://github.com/user-attachments/assets/6e6c7079-153d-47e8-a97c-1eb7c4a384d5)
 
 * ***PowerShell***
     
-    ![PowerShell](images/powershell-logo.jpg)
+    ![Powershell](https://github.com/user-attachments/assets/359d3b74-632a-4b04-b0c6-450fa7210dd0)
 
 * ***Linux (Debian, Ubuntu & Fedora)***
     
-    ![Debian](images/debian-logo.png)
-    ![Ubuntu](images/ubuntu-new-2.jpg)
-    ![Fedora](images/fedora.jpg)
+    ![Debian](https://github.com/user-attachments/assets/80d28758-2485-4557-87ac-2248929a9c3b)
+    ![Ubuntu](https://github.com/user-attachments/assets/4ae7818e-751e-4e6b-b686-b0e95eb5e413)
+    ![Fedora](https://github.com/user-attachments/assets/8ec47c1a-d645-4c23-9f77-c5c01c3665c0)
 
 * ***Monitoring (Zabbix y Grafana)***
     
-    ![Zabbix](images/zabbix-logo.png)
-    ![Grafana](images/grafana-logo-new.jpg)
+    ![Zabbix](https://github.com/user-attachments/assets/84d1709b-aca5-46c9-b45c-478c9f3d20ca)
+    ![Grafana](https://github.com/user-attachments/assets/a3272b6d-ace3-413c-8ab4-bc8fb5a71897)
 
 * ***Software Deployment (PDQ Deploy)***
     
-    ![PDQ Deploy](images/pdqdeploy-logo.png)
+    ![PDQ Deploy](https://github.com/user-attachments/assets/83ceba64-8900-4363-bad4-82ea4c6a4e12)
 
 * ***Remote Access and Troubleshooting (TeamViewer & AnyDesk)***
     
-    ![TeamViewer](images/teamviewer-logo2.jpg)
-    ![AnyDesk](images/anydesk-logo2.png)
+    ![TeamViewer](https://github.com/user-attachments/assets/76110aec-b3ce-40bf-9410-2cc18b9a4384)
+    ![AnyDesk](https://github.com/user-attachments/assets/9824b177-3101-4b9c-8318-6708206baec5)
 
 * ***Ticketing System (Jira Service Management)***
     
-    ![Jira Service Management](images/jsm-logo2.jpg)
+    ![Jira Service Management](https://github.com/user-attachments/assets/989cd8fd-2cd5-4745-9cd8-53675c71344f)
 
 ## 💭 Soft - Skills
 
@@ -102,7 +102,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
   [Verify certification](https://coursera.org/verify/professional-cert/M48LW2WRG6LD)
 
 - **English Certificates - Instituto Británico de Cultura Inglesa (IBCI)** <br/><br/>
-  ![Logo](/certificates/english%20certificates/logo/ibci-logo.png)
+  ![ibci-logo](https://github.com/user-attachments/assets/2bcbf981-a954-4724-87dd-bfcb75e2487d)
 
   - [1st Form Inferior (2004)](/certificates/english%20certificates/1st%20Form%20Inferior/1st%20Form%20Inferior.pdf)
 
