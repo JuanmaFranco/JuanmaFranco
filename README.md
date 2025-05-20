@@ -28,7 +28,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 * ***Active Directory (On-Premises & Azure Active Directory)***
     
-    ![Active Directory](images/active-directory-logo.jpg)
+    ![active-directory-logo.jpg](images/active-directory-logo.jpg)
     ![Azure Active Directory](images/azure-ad-logo2.png)
 
 * ***Group Policy Objects (GPOs)***
