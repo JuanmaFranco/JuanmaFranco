@@ -95,8 +95,23 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 
 ## 📜 Certifications
 
+- **CompTIA A+** <br>
+  ![Badge](/certificates/comptia/a+/A+-jpg.jpg) <br>
+  [View certification](/certificates/comptia/a+/CompTIA%20A+%20ce%20certificate.pdf) <br>
+  [Verify certification](https://cp.certmetrics.com/comptia/en/public/verify/credential/7cd1f9db0591499e9b0683a0e00be8fe)
+
+- **CompTIA Network+** <br>
+  ![Badge](/certificates/comptia/net+/Network+-jpg.jpg) <br>
+  [View certification](/certificates/comptia/net+/CompTIA%20Network+%20ce%20certificate.pdf) <br>
+  [Verify certification](https://cp.certmetrics.com/comptia/en/public/verify/credential/f363c79dfad84737964bffe361117eee)
+
+- **CompTIA Security+** <br>
+  ![Badge](/certificates/comptia/sec+/Security+-jpg.jpg) <br>
+  [View certification](/certificates/comptia/sec+/CompTIA%20Security+%20ce%20certificate.pdf) <br>
+  [Verify certification](https://cp.certmetrics.com/comptia/en/public/verify/credential/fb3aaaa211cc4ee4b28bc8c29dad5ddc)
+
 - **Google IT Support Professional Certificate**  
-  ![Badge](/certificates/google%20it%20support%20specialist/google-it-support-professional-certificate.png)  
+  ![Badge](/certificates/google%20it%20support%20specialist/google-it-support-professional-certificate-2.png)  
   *Issued by Google via Coursera*  
   [View certification](/certificates/google%20it%20support%20specialist/google_it_support.pdf) <br>
   [Verify certification](https://coursera.org/verify/professional-cert/M48LW2WRG6LD)
