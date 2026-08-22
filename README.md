@@ -75,7 +75,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 * ***Ticketing System (Jira Service Management & Zendesk)***
     
     ![Jira Service Management](https://github.com/user-attachments/assets/989cd8fd-2cd5-4745-9cd8-53675c71344f)
-    ![Zendesk](https://github.com/user-attachments/assets/37f8d951-9bd6-4340-ad45-f2109f74622f")
+    ![Zendesk](https://github.com/user-attachments/assets/8e3f26de-e2a9-4c7a-a5ae-3395dc53761b)
 
 
 ## 💭 Soft - Skills
