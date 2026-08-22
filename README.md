@@ -72,7 +72,7 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
     ![TeamViewer](https://github.com/user-attachments/assets/76110aec-b3ce-40bf-9410-2cc18b9a4384)
     ![AnyDesk](https://github.com/user-attachments/assets/9824b177-3101-4b9c-8318-6708206baec5)
 
-* ***Ticketing System (Jira Service Management)***
+* ***Ticketing System (Jira Service Management & Zendesk)***
     
     ![Jira Service Management](https://github.com/user-attachments/assets/989cd8fd-2cd5-4745-9cd8-53675c71344f)
 
@@ -94,6 +94,11 @@ I'm **Juan Martín Franco**, a student pursuing a Bachelor's Degree in Informati
 - [Administración y Gestión de Redes - Practical Work](https://github.com/JuanmaFranco/AyGR-TPS)
 
 ## 📜 Certifications
+
+- **Cisco CCNA** <br>
+  ![Badge](/certificates/cisco/ccna/ccna_large.jpg) <br>
+  [View certification](/certificates/cisco/ccna/Cisco%20CCNA.pdf) <br>
+  [Verify certification](https://cp.certmetrics.com/cisco/en/public/verify/credential/c05644e2354048d88599b94f8a06481c)
 
 - **CompTIA A+** <br>
   ![Badge](/certificates/comptia/a+/A+-jpg.jpg) <br>
