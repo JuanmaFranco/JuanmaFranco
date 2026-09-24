@@ -166,11 +166,11 @@ Feel free to explore these projects and get a glimpse of my technical expertise 
 
 Versión en español:  
 
-  - [CV - Juan Martín Franco](/resume/CV%20-%20%20Juan%20Martin%20Franco.pdf)
+  - [CV - Juan Martín Franco](/resume/CV_JuanMartinFranco.pdf)
 
 English Version: 
 
-  - [Juan Martin Franco's Resume](/resume/Juan%20Martin%20Franco%20-%20Resume.pdf)
+  - [Juan Martin Franco's Resume](/resume/Resume_JuanMartinFranco.pdf)
 
 
 ## 📫 How to reach me:
